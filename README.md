@@ -7,4 +7,7 @@ Debug JavaScript in Chrome
 * console.table
 * debugger;
 * F8 for :hover
+* break on
+* change element status
 * keyboard shortuts
+* performance optimization
