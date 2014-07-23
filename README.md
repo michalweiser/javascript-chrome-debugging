@@ -11,3 +11,5 @@ Debug JavaScript in Chrome
 * change element status
 * keyboard shortuts
 * performance optimization
+* Extensions to look at
+    http://domflags.com/
